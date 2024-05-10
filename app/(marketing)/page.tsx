@@ -24,7 +24,6 @@ export default function HomePage() {
         passionate about keeping you informed and up to date with the latest
         news.
       </p>
-
       <p>
         <Link href="/news">Read the latest news</Link>
       </p>
